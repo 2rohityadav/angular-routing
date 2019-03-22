@@ -17,10 +17,7 @@ const routes: Routes = [
     path: 'feature3two',
     component: Feature3TwoComponent,
   },
-  // {
-  //   path: 'feature-3-1',
-  //   loadChildren: './feature-3-1/feature-3-1.module#Feature3-1Module',
-  // },
+ 
 ];
 
 @NgModule({
